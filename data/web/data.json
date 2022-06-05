@@ -1,0 +1,20 @@
+[
+  {
+    "user_name": "18621276983",
+    "password": "123456",
+    "verify_code": "8888",
+    "error_message": "",
+    "succeed": true,
+    "description": "使用正确的用户名密码登录"
+  },
+  {
+    "user_name": "admin",
+    "password": "123456",
+    "verify_code": "8888",
+    "error_message": "账号格式不匹配!",
+    "succeed": false,
+    "description": "使用错误格式的用户名登录"
+  }
+]
+
+
